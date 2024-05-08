@@ -11,3 +11,6 @@ We use the same file structure as the exercises and assignments. If you already 
 ### What Your Directory Should Look Like
 (if you're running our shared file)
 <img width="1226" alt="Screen Shot 2024-05-08 at 2 53 38 PM" src="https://github.com/gabedos/ML-Final/assets/147358644/b545a65e-703d-4706-b1d6-135b5c517edd">
+
+### Running the Code
+On the menu bar, select "Runtime" and then "Run all." You may need to give Google Drive the permission to connect first.
